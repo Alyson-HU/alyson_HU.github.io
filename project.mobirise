@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-09_1344",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.4",
     "siteFonts": [],
-    "uniqCompNum": 49,
+    "uniqCompNum": 51,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png"
   },
@@ -1017,6 +1017,54 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-9\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Welcome!</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-16"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12-1400x3106.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1d"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13-1400x2951.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1e"
         }
       ]
     }
